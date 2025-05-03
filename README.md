@@ -2,7 +2,7 @@
 
 **Offered by:** Coursera Instructor Network  
 **Instructors:** Yash Thakker 
-**Platform:** Coursera (Included with Coursera Plus)  
+**Platform:** Coursera
 **Link to Course:** [Go to Course](https://www.coursera.org/learn/elevate-team-productivity-with-crew-ai)  
 
 
